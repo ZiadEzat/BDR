@@ -1,11 +1,12 @@
 # Bomb Disposal Robot (BDR)
 Equipped Robot that does the work for the bomb disposal experts
 
-## The Problem
+##Project Overview
+### The Problem
 
 Terrorism are increasing everywhere and they exist in my country, Egypt. I once watched a bomb disposal expert defusing a time bomb but it unfortunately exploded on him.
 
-## Solution
+### Solution
 I aim to make a robot that keeps the bomb experts, enviroment, and the people safe where you can drive the robot to reach the bomb and defuse it remotely.
 
 
