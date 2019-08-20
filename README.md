@@ -19,8 +19,7 @@ I aim to make a robot that keeps the bomb experts, enviroment, and the people sa
 
 ## Features
 
-- ![6-Axis Robotic Arm](https://i.imgur.com/Ku13uAW.gif)
-: A flexible robotic arm that can move freely.
+- ![6-Axis Robotic Arm](https://i.imgur.com/a/Ku13uAW): A flexible robotic arm that can move freely.
 
 - Vehicle: Walks on almost every terrain.
 - Camera: For tracking the robot and Computer Vision purpose (see below)
