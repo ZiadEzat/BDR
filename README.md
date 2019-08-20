@@ -19,9 +19,9 @@ I aim to make a robot that keeps the bomb experts, enviroment, and the people sa
 
 ## Features
 
-- ![6-Axis Robotic Arm](https://i.imgur.com/a/Ku13uAW): A flexible robotic arm that can move freely.
+- [6-Axis Robotic Arm](https://i.imgur.com/a/Ku13uAW): A flexible robotic arm that can move freely.
 
 - Vehicle: Walks on almost every terrain.
 - Camera: For tracking the robot and Computer Vision purpose (see below)
-- ![Android Application](https://imgur.com/a/J2gTQwz): *Work in Progress* This is the largest and most exciting feature of BDR. This application is where it has the Control Panel for the Robotic Arm, Vehicle, and you can keep tracking of the robot using the camera and also detects the wires and you can decide which wire you want to cut with one click and the robot will automatically do it for you. (We almost got this working but unfortunately due to time constraints we could not complete it)
+- [Android Application](https://imgur.com/a/J2gTQwz): *Work in Progress* This is the largest and most exciting feature of BDR. This application is where it has the Control Panel for the Robotic Arm, Vehicle, and you can keep tracking of the robot using the camera and also detects the wires and you can decide which wire you want to cut with one click and the robot will automatically do it for you. (We almost got this working but unfortunately due to time constraints we could not complete it)
 
